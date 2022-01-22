@@ -47,11 +47,11 @@ def start_markup(chat_id: int, bot_username: str):
             ],
             [
                 InlineKeyboardButton(
-                    gm(chat_id, "commands"), url="https://telegra.ph/Kayzu-Teks-01-18"
+                    gm(chat_id, "commands"), url="https://telegra.ph/Gaurboo-music-cmds-01-22"
                 ),
                 InlineKeyboardButton(
-                    gm(chat_id, "source_code"),
-                    url="https://github.com/Kayzyu/EnakeunMusic",
+                    gm(chat_id, "Assistant"),
+                    url="https://t.me/Having_2_Aims",
                 )
             ],
         ]
