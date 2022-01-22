@@ -1,7 +1,7 @@
 <h2 align="center">🎵Enakeun Music🎵 </h2>
 <p>
 <p align="center">
-  <img src="https://telegra.ph/file/f114fa1b8dac8f8869fb5.jpg">
+  <img src="https://telegra.ph/file/f27035ac28a38241efdd6.jpg">
 </p>
 
 Telegram bot for stream music or video on telegram, 
